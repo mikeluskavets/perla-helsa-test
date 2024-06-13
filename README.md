@@ -11,6 +11,10 @@
 7. Install node modules -> npm install
 8. Run for development -> gulp
 
+#Project code
+- Go to <your-project-path>/src 
+- Where you find scss and js folder with files
+
 #Test Data
 - Support country - Польша, Poland
 - Working zip, 97-340 and other
