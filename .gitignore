@@ -1,0 +1,18 @@
+# Application
+
+
+# WordPress
+web/wp
+
+# npm
+mode_modules/*
+
+# Composer
+vendor/*
+!vendor/.gitkeep
+
+# Idea
+.idea/
+/.osp/project.ini
+/.osp/
+/node_modules/
