@@ -1,5 +1,4 @@
-#Overview:
-Perla-Helsa Test Mike
+#Perla-Helsa Test Mike
 
 #Installation:
 
@@ -13,7 +12,8 @@ Perla-Helsa Test Mike
 8. Run for development -> gulp
 
 #Test Data
-Support country - Польша, Poland
-Working zip, 97-340 and other
+- Support country - Польша, Poland
+- Working zip, 97-340 and other
 
-So check. Waiting for your feedback!
+
+#So check. Waiting for your feedback!
